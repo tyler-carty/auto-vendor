@@ -15,7 +15,7 @@ Using a MySQL compatible web-server, put the website content folder in your WWW 
 corresponding SQL tables folder. Either create yourself a login directly in the database, or use the following login to
 access all sections of the website:
 
-Username- Tyler
-Password- Tyler
+Username- Tyler  
+Password- Tyler  
 
 Otherwise, you can refer to the Presentation MP4 file where I go through the entire website and its functionality.
