@@ -1,4 +1,4 @@
-# Auto Vendor Rentals (Web Aplication)
+# auto-vendor-web-app
 
 A reliable, scalable web application for the management of a fictional vehicle rental company.
 
